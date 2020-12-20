@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(255, 47, 82);
+}
+
+#container{
+
+    background-color:aqua;
+    width: 700px;
+    height:270px;
+
+}
+
+.container1{
+    background-color:rgb(114, 255, 71);
+    width: 700px;
+    height:370px;
+    margin:auto;
+    text-align: center;
+
+
+}
